@@ -1,0 +1,12 @@
+html, body
+{
+    height: 100%;
+    font-family: 'Lugrasimo', cursive;
+}
+
+body
+{
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    background-color: blanchedalmond;
+}
